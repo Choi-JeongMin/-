@@ -1,0 +1,21 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>최정민의 명함</title>
+</head>
+<body>
+<img 
+src="https://www.seoultech.ac.kr/site/www/images/intro/img_ui01_01.gif"
+style="float: right;  margin-left: 20px; margin-bottom: 10px;"
+/>
+<p><img src="file:///C:/Users/wjdals/Desktop/08bf34da-427f-4f22-b2e7-3e24cea7b2b6.jpg-0001.png" align="right">
+<font size=5><font color=blue><font face="나눔바른고딕">서울과학기술대학교 건축공학과</font><br>
+<font size=4><font color=blue><font face="나눔바른고딕">1학년</font><br>
+<hr>
+<font color=black>이름: 최정민</font><br>
+<font color=black>전화번호: 010-1234-4321</font><br>
+<font color=black>주소: 서울시 OO로 99길 123</font><br>
+<font color=black>이메일: XXXXX@naver.com</font>
+</body>
+</html>
