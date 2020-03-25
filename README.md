@@ -1,7 +1,6 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>최정민의 명함</title>
 </head>
 <body>
 <img 
