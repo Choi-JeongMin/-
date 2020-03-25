@@ -15,6 +15,6 @@ style="float: right;  margin-left: 20px; margin-bottom: 10px;"
 1학년<br>
 <hr>
 이름: 최정민<br>
-전화번호: 010-1234-4321><br>
+전화번호: 010-1234-4321<br>
 주소: 서울시 OO로 99길 123<br>
 이메일: XXXXX@naver.com<br>
